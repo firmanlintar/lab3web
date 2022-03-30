@@ -4,7 +4,7 @@
 | Kelas   | TI.20.A.1        |
 
 ## Langkah langkah praktikum 3
-Membuka text editor, Saya menggunakan Sublime text
+Membuka text editor, Saya menggunakan Visual Studi Code
 ![img1!](assets/img/1.PNG)
 
 ## 1. Membuat Ordered List
