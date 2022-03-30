@@ -4,7 +4,7 @@
 | Kelas   | TI.20.A.1        |
 
 ## Langkah langkah praktikum 3
-Membuka text editor, Saya menggunakan Visual Studi Code
+Membuka text editor, Saya menggunakan Visual Studio Code
 ![img1!](assets/img/1.PNG)
 
 ## 1. Membuat Ordered List
@@ -88,12 +88,16 @@ Output
 ## Jawab
 1. HTML
 
-	![img1!](assets/img/praktikum/1.png)
+	![img18!](assets/img/html.PNG)
 
 	CSS
 
-	![img2!](assets/img/praktikum/2.png)
+	![img19!](assets/img/css.PNG)
 
 	Output
+	Dropdown
 
-	![img3!](assets/img/praktikum/3.png)
+	![img20!](assets/img/dropdown.png)
+
+	Multiple Selection
+	![img21!](assets/img/multipleselection.png)
